@@ -5,14 +5,7 @@ import recipeView from './views/recipeView.js';
 import searchView from './views/searchView.js';
 import resultsView from './views/resultsView.js';
 import paginationView from './views/paginationView.js';
-
-// https://forkify-api.herokuapp.com/v2
-// 71692436-5517-472d-8a28-b915f6a68772
-
-// https://forkify-api.herokuapp.com/api/v2/recipes?search=pizza
-// 664c8f193e7aa067e94e89af
-// https://forkify-api.herokuapp.com/api/v2/recipes/5ed6604591c37cdc054bc886
-///////////////////////////////////////
+import bookMarksView from './views/bookMarksView.js';
 
 const controlRecipes = async function () {
   try {
@@ -21,6 +14,8 @@ const controlRecipes = async function () {
     if (!id) return;
     recipeView.renderSpinner();
     resultsView.update(model.getSearhResultsPage());
+
+    bookMarksView.update(model.state.bookmarks);
 
     // 1 Loading res
 
@@ -60,12 +55,24 @@ const controlServings = function (newServings) {
 };
 
 const controlAddBookMark = function () {
-  model.addBookmark(model.state.recipe);
-  console.log(model.state.recipe);
+  // add / remove
+  if (!model.state.recipe.bookmarks) model.addBookmark(model.state.recipe);
+  else model.deleteBookmark(model.state.recipe.id);
+
+  // update view
   recipeView.update(model.state.recipe);
+
+  // render
+
+  bookMarksView.render(model.state.bookmarks);
+};
+
+const controlBookmarks = function () {
+  bookMarksView.render(model.state.bookmarks);
 };
 
 const init = function () {
+  bookMarksView.addHandlerRender(controlBookmarks);
   recipeView.addHandlerRender(controlRecipes);
   recipeView.addHandlerUpdateServings(controlServings);
   searchView.addHandlerSearch(controlSearchResults);
