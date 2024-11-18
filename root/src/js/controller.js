@@ -14,7 +14,7 @@ import paginationView from './views/paginationView.js';
 // https://forkify-api.herokuapp.com/api/v2/recipes/5ed6604591c37cdc054bc886
 ///////////////////////////////////////
 
-const controllRecipes = async function () {
+const controlRecipes = async function () {
   try {
     const id = window.location.hash.slice(1);
 
@@ -33,7 +33,7 @@ const controllRecipes = async function () {
   }
 };
 
-const controllSearchResults = async () => {
+const controlSearchResults = async () => {
   try {
     resultsView.renderSpinner();
     const query = searchView.getQuery();
@@ -48,15 +48,21 @@ const controllSearchResults = async () => {
   }
 };
 
-const controllPagination = function (goToPage) {
+const controlPagination = function (goToPage) {
   resultsView.render(model.getSearhResultsPage(goToPage));
   paginationView.render(model.state.search);
 };
 
+const controlServings = function (newServings) {
+  model.updateServings(newServings);
+  recipeView.render(model.state.recipe);
+};
+
 const init = function () {
-  recipeView.addHandlerRender(controllRecipes);
-  searchView.addHandlerSearch(controllSearchResults);
-  paginationView.addHandlerClick(controllPagination);
+  recipeView.addHandlerRender(controlRecipes);
+  recipeView.addHandlerUpdateServings(controlServings);
+  searchView.addHandlerSearch(controlSearchResults);
+  paginationView.addHandlerClick(controlPagination);
 };
 
 init();
