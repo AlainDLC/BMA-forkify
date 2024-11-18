@@ -1,4 +1,4 @@
-6015
+6016
 79C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\codeframe\src\codeframe.js133755546959880223 0
 83C:\Users\Leon1\Desktop\BMA\root\node_modules\svgo\plugins\convertEllipseToCircle.js133755546961086204 0
 81C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\features\tls1-2.js133755546968437859 0
@@ -13,7 +13,7 @@
 75C:\Users\Leon1\Desktop\BMA\root\node_modules\css-what\lib\commonjs\index.js133755546956639205 0
 53C:\Users\Leon1\Desktop\BMA\root\node_modules\mdn-data133755546960127794 1
 54C:\Users\Leon1\Desktop\BMA\root\node_modules\is-number133755546956951367 1
-52C:\Users\Leon1\Desktop\BMA\root\src\js\controller.js133761398276585895 0
+52C:\Users\Leon1\Desktop\BMA\root\src\js\controller.js133763978112731047 0
 91C:\Users\Leon1\Desktop\BMA\root\node_modules\css-tree\cjs\definition-syntax\SyntaxError.cjs133755546963055812 0
 92C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\features\css-focus-visible.js133755546963799847 0
 85C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\core\lib\requests\PathRequest.js133755546963132668 0
@@ -22,7 +22,7 @@
 96C:\Users\Leon1\Desktop\BMA\root\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133755546960618351 0
 68C:\Users\Leon1\Desktop\BMA\root\node_modules\source-map\package.json133755546956048632 0
 86C:\Users\Leon1\Desktop\BMA\root\node_modules\electron-to-chromium\chromium-versions.js133755546956499412 0
-36C:\Users\Leon1\Desktop\BMA\root\dist133761400259850334 1
+36C:\Users\Leon1\Desktop\BMA\root\dist133763978830207258 1
 73C:\Users\Leon1\Desktop\BMA\root\node_modules\electron-to-chromium\LICENSE133755546956123291 0
 83C:\Users\Leon1\Desktop\BMA\root\node_modules\posthtml-parser\dist\chunk.T6SARJYH.js133755546956561951 0
 84C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\features\dommatrix.js133755546964916773 0
@@ -40,8 +40,6 @@
 74C:\Users\Leon1\Desktop\BMA\root\node_modules\csso\lib\clean\Declaration.js133755546961816466 0
 71C:\Users\Leon1\Desktop\BMA\root\node_modules\utility-types\CHANGELOG.md133755546958639795 0
 84C:\Users\Leon1\Desktop\BMA\root\node_modules\lmdb\node_modules\node-addon-api\napi.h133755546958651054 0
-105C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\sort.d.ts133755546960367791 0
-55C:\Users\Leon1\Desktop\BMA\root\node_modules\domhandler133755546957870196 1
 67C:\Users\Leon1\Desktop\BMA\root\node_modules\css-tree\lib\generator133755546964538821 1
 95C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext133755546964063500 1
 114C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Value.js133755546963276333 0
@@ -183,7 +181,7 @@
 78C:\Users\Leon1\Desktop\BMA\root\node_modules\postcss-value-parser\package.json133755546957870196 0
 76C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\regions\CY.js133755546964697227 0
 50C:\Users\Leon1\Desktop\BMA\root\node_modules\@lmdb133757979489517173 1
-47C:\Users\Leon1\Desktop\BMA\root\src\js\model.js133761395573769854 0
+47C:\Users\Leon1\Desktop\BMA\root\src\js\model.js133763966536478807 0
 84C:\Users\Leon1\Desktop\BMA\root\node_modules\utility-types\dist\utility-types.js.map133755546958543147 0
 96C:\Users\Leon1\Desktop\BMA\root\node_modules\css-select\node_modules\dom-serializer\package.json133755546958031534 0
 76C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\regions\TH.js133755546968417274 0
@@ -226,7 +224,23 @@
 53C:\Users\Leon1\Desktop\BMA\root\src\sass\_upload.scss133755532163819245 0
 116C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\parser\sequence.js133755546963035813 0
 70C:\Users\Leon1\Desktop\BMA\root\node_modules\semver\ranges\simplify.js133755546960697564 0
-44C:\Users\Leon1\Desktop\BMA\root\src\js\views133761358846531916 1
+76C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\regions\DE.js133755546964749023 0
+81C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\optimizer-image\package.json133755546956853329 0
+51C:\Users\Leon1\Desktop\BMA\root\src\img\favicon.png133755532161726076 0
+48C:\Users\Leon1\Desktop\BMA\root\src\js\config.js133763952547691766 0
+74C:\Users\Leon1\Desktop\BMA\root\node_modules\source-map-js\source-map.d.ts133755546959241960 0
+121C:\Users\Leon1\Desktop\BMA\root\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test.cmd133755546969269895 0
+68C:\Users\Leon1\Desktop\BMA\root\node_modules\js-yaml\lib\type\map.js133755546959576023 0
+109C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\attributes.js133755546957080400 0
+50C:\Users\Leon1\Desktop\BMA\root\node_modules\clone133755546957552540 1
+79C:\Users\Leon1\Desktop\BMA\root\node_modules\css-select\lib\attributes.d.ts.map133755546960107644 0
+64C:\Users\Leon1\Desktop\BMA\root\node_modules\js-tokens\README.md133755546957363407 0
+53C:\Users\Leon1\Desktop\BMA\root\node_modules\argparse133755546958177362 1
+65C:\Users\Leon1\Desktop\BMA\root\node_modules\msgpackr-extract\bin133755546957120767 1
+65C:\Users\Leon1\Desktop\BMA\root\node_modules\lmdb\src\lmdb-js.cpp133755546962395766 0
+89C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\_\_to_property_key\package.json133755546963398711 0
+49C:\Users\Leon1\Desktop\BMA\root\src\js\helpers.js133761369522449059 0
+44C:\Users\Leon1\Desktop\BMA\root\src\js\views133763969687487591 1
 61C:\Users\Leon1\Desktop\BMA\root\node_modules\lmdb\src\env.cpp133755546962366125 0
 64C:\Users\Leon1\Desktop\BMA\root\node_modules\posthtml\lib\api.js133755546956561951 0
 91C:\Users\Leon1\Desktop\BMA\root\node_modules\dom-serializer\node_modules\entities\readme.md133755546958979515 0
@@ -237,9 +251,6 @@
 54C:\Users\Leon1\Desktop\BMA\root\node_modules\svgo\dist133755546958020302 1
 72C:\Users\Leon1\Desktop\BMA\root\node_modules\chokidar\esm\handler.js.map133755546958511427 0
 92C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\features\wasm-multi-memory.js133755546968778459 0
-76C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\regions\DE.js133755546964749023 0
-81C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\optimizer-image\package.json133755546956853329 0
-51C:\Users\Leon1\Desktop\BMA\root\src\img\favicon.png133755532161726076 0
 56C:\Users\Leon1\Desktop\BMA\root\node_modules\cosmiconfig133755546960687460 1
 73C:\Users\Leon1\Desktop\BMA\root\node_modules\css-tree\cjs\syntax\function133755546963261245 1
 49C:\Users\Leon1\Desktop\BMA\root\src\img\icons.svg133755532161976409 0
@@ -291,14 +302,6 @@
 84C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\_\_instanceof\package.json133755546962309564 0
 87C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\esm\_sliced_to_array_loose.js133755546965088985 0
 56C:\Users\Leon1\Desktop\BMA\root\node_modules\ansi-styles133755546957262444 1
-74C:\Users\Leon1\Desktop\BMA\root\node_modules\source-map-js\source-map.d.ts133755546959241960 0
-121C:\Users\Leon1\Desktop\BMA\root\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test.cmd133755546969269895 0
-68C:\Users\Leon1\Desktop\BMA\root\node_modules\js-yaml\lib\type\map.js133755546959576023 0
-109C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\attributes.js133755546957080400 0
-50C:\Users\Leon1\Desktop\BMA\root\node_modules\clone133755546957552540 1
-79C:\Users\Leon1\Desktop\BMA\root\node_modules\css-select\lib\attributes.d.ts.map133755546960107644 0
-64C:\Users\Leon1\Desktop\BMA\root\node_modules\js-tokens\README.md133755546957363407 0
-53C:\Users\Leon1\Desktop\BMA\root\node_modules\argparse133755546958177362 1
 53C:\Users\Leon1\Desktop\BMA\root\node_modules\boolbase133755546956679929 1
 96C:\Users\Leon1\Desktop\BMA\root\node_modules\csso\node_modules\mdn-data\css\syntaxes.schema.json133755546959801461 0
 67C:\Users\Leon1\Desktop\BMA\root\node_modules\color-convert\route.js133755546957833143 0
@@ -342,15 +345,6 @@
 58C:\Users\Leon1\Desktop\BMA\root\node_modules\node-releases133755546957679869 1
 81C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\transformer-svg\package.json133755546958279258 0
 63C:\Users\Leon1\Desktop\BMA\root\node_modules\chrome-trace-event133755546957552540 1
-78C:\Users\Leon1\Desktop\BMA\root\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133755546963068679 0
-102C:\Users\Leon1\Desktop\BMA\root\node_modules\csso\cjs\restructure\prepare\createDeclarationIndexer.cjs133755546959378192 0
-86C:\Users\Leon1\Desktop\BMA\root\node_modules\lmdb\node_modules\node-addon-api\index.js133755546959186203 0
-83C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\_\_using_ctx\package.json133755546963577305 0
-66C:\Users\Leon1\Desktop\BMA\root\node_modules\js-yaml\lib\schema.js133755546959855587 0
-63C:\Users\Leon1\Desktop\BMA\root\node_modules\dom-serializer\lib133755546959025288 1
-76C:\Users\Leon1\Desktop\BMA\root\node_modules\cosmiconfig\dist\merge.d.ts.map133755546960302912 0
-72C:\Users\Leon1\Desktop\BMA\root\node_modules\sass\types\value\color.d.ts133755546962155150 0
-59C:\Users\Leon1\Desktop\BMA\root\node_modules\domelementtype133755546958076514 1
 80C:\Users\Leon1\Desktop\BMA\root\node_modules\update-browserslist-db\package.json133755546957598045 0
 73C:\Users\Leon1\Desktop\BMA\root\node_modules\nth-check\lib\parse.d.ts.map133755546959254584 0
 84C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\features\dragndrop.js133755546964927890 0
@@ -360,6 +354,17 @@
 60C:\Users\Leon1\Desktop\BMA\root\node_modules\.bin\parcel.cmd133755546969249781 0
 56C:\Users\Leon1\Desktop\BMA\root\node_modules\safe-buffer133755546957322980 1
 64C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\_\_get133755546961998762 1
+78C:\Users\Leon1\Desktop\BMA\root\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h133755546963068679 0
+102C:\Users\Leon1\Desktop\BMA\root\node_modules\csso\cjs\restructure\prepare\createDeclarationIndexer.cjs133755546959378192 0
+86C:\Users\Leon1\Desktop\BMA\root\node_modules\lmdb\node_modules\node-addon-api\index.js133755546959186203 0
+83C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\_\_using_ctx\package.json133755546963577305 0
+66C:\Users\Leon1\Desktop\BMA\root\node_modules\js-yaml\lib\schema.js133755546959855587 0
+63C:\Users\Leon1\Desktop\BMA\root\node_modules\dom-serializer\lib133755546959025288 1
+76C:\Users\Leon1\Desktop\BMA\root\node_modules\cosmiconfig\dist\merge.d.ts.map133755546960302912 0
+72C:\Users\Leon1\Desktop\BMA\root\node_modules\sass\types\value\color.d.ts133755546962155150 0
+59C:\Users\Leon1\Desktop\BMA\root\node_modules\domelementtype133755546958076514 1
+105C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\sort.d.ts133755546960367791 0
+55C:\Users\Leon1\Desktop\BMA\root\node_modules\domhandler133755546957870196 1
 99C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\README.md133755546960026933 0
 53C:\Users\Leon1\Desktop\BMA\root\node_modules\domutils133755546959241960 1
 73C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\transformer-posthtml133755546957587945 1
@@ -387,7 +392,7 @@
 84C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\features\autofocus.js133755546960787424 0
 86C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\_\_skip_first_generator_next133755546963132668 1
 53C:\Users\Leon1\Desktop\BMA\root\node_modules\escalade133755546958300553 1
-47C:\Users\Leon1\Desktop\BMA\root\dist\index.html133761354839329888 0
+47C:\Users\Leon1\Desktop\BMA\root\dist\index.html133763972378475776 0
 55C:\Users\Leon1\Desktop\BMA\root\node_modules\fill-range133755546956977299 1
 51C:\Users\Leon1\Desktop\BMA\root\node_modules\fracty133755546957343081 1
 68C:\Users\Leon1\Desktop\BMA\root\node_modules\semver\functions\inc.js133755546959210525 0
@@ -635,7 +640,6 @@
 78C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\dist\lib\statuses.js133755546968159608 0
 107C:\Users\Leon1\Desktop\BMA\root\node_modules\csso\node_modules\css-tree\cjs\syntax\node\DeclarationList.cjs133755546960261465 0
 64C:\Users\Leon1\Desktop\BMA\root\node_modules\weak-lru-cache\dist133755546956133283 1
-69C:\Users\Leon1\Desktop\BMA\root\node_modules\css-tree\dist\version.js133755546964697227 0
 67C:\Users\Leon1\Desktop\BMA\root\node_modules\picomatch\CHANGELOG.md133755546958311786 0
 90C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\features\referrer-policy.js133755546967386543 0
 94C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\package-manager\src\NodePackageManager.js133755546959741267 0
@@ -744,7 +748,7 @@
 64C:\Users\Leon1\Desktop\BMA\root\node_modules\svgo\lib\builtin.js133755546959525351 0
 89C:\Users\Leon1\Desktop\BMA\root\node_modules\utility-types\dist\functional-helpers.js.map133755546958191773 0
 76C:\Users\Leon1\Desktop\BMA\root\node_modules\css-select\lib\esm\compile.d.ts133755546961886905 0
-55C:\Users\Leon1\Desktop\BMA\root\dist\index.f7626f62.css133761392732363576 0
+55C:\Users\Leon1\Desktop\BMA\root\dist\index.f7626f62.css133763972378299107 0
 81C:\Users\Leon1\Desktop\BMA\root\node_modules\css-tree\lib\lexer\generic-urange.js133755546963960831 0
 70C:\Users\Leon1\Desktop\BMA\root\node_modules\import-fresh\package.json133755546956751978 0
 118C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133755546960261465 0
@@ -921,8 +925,6 @@
 91C:\Users\Leon1\Desktop\BMA\root\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi133755546957288154 0
 80C:\Users\Leon1\Desktop\BMA\root\node_modules\type-fest\source\promise-value.d.ts133755546959995886 0
 79C:\Users\Leon1\Desktop\BMA\root\node_modules\cosmiconfig\dist\defaults.d.ts.map133755546959410678 0
-94C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\source-map\parcel_sourcemap_node\build.js133755546958126083 0
-74C:\Users\Leon1\Desktop\BMA\root\node_modules\regenerator-runtime\README.md133755546957363407 0
 98C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\features\date-tolocaledatestring.js133755546964749023 0
 102C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\runtime-js\src\helpers\browser\prefetch-loader.js133755546960357397 0
 75C:\Users\Leon1\Desktop\BMA\root\node_modules\detect-libc\lib\detect-libc.js133755546957767310 0
@@ -1591,6 +1593,8 @@
 72C:\Users\Leon1\Desktop\BMA\root\node_modules\regenerator-runtime\path.js133755546956365929 0
 96C:\Users\Leon1\Desktop\BMA\root\node_modules\posthtml\node_modules\posthtml-parser\dist\index.js133755546956887588 0
 63C:\Users\Leon1\Desktop\BMA\root\node_modules\chalk\package.json133755546957450307 0
+94C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\source-map\parcel_sourcemap_node\build.js133755546958126083 0
+74C:\Users\Leon1\Desktop\BMA\root\node_modules\regenerator-runtime\README.md133755546957363407 0
 98C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\runtime-js\lib\helpers\browser\wasm-loader.js133755546960509256 0
 75C:\Users\Leon1\Desktop\BMA\root\node_modules\regenerator-runtime\runtime.js133755546956833057 0
 84C:\Users\Leon1\Desktop\BMA\root\node_modules\htmlparser2\lib\WritableStream.d.ts.map133755546958609745 0
@@ -1901,13 +1905,6 @@
 64C:\Users\Leon1\Desktop\BMA\root\node_modules\braces\lib\utils.js133755546958055134 0
 83C:\Users\Leon1\Desktop\BMA\root\node_modules\css-tree\lib\syntax\node\IdSelector.js133755546964012484 0
 90C:\Users\Leon1\Desktop\BMA\root\node_modules\node-gyp-build-optional-packages\node_modules133755546946385809 1
-76C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\plugin\src\PluginAPI.js133755546956941328 0
-91C:\Users\Leon1\Desktop\BMA\root\node_modules\htmlnano\lib\modules\removeAttributeQuotes.mjs133755546962465239 0
-89C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\features\css-textshadow.js133755546964488295 0
-128C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133755546962832192 0
-79C:\Users\Leon1\Desktop\BMA\root\node_modules\htmlnano\lib\modules\minifyCss.mjs133755546962309564 0
-63C:\Users\Leon1\Desktop\BMA\root\node_modules\json5\lib\parse.js133755546957822000 0
-78C:\Users\Leon1\Desktop\BMA\root\node_modules\css-select\lib\esm\types.d.ts.map133755546961580088 0
 85C:\Users\Leon1\Desktop\BMA\root\node_modules\csso\node_modules\css-tree\lib\tokenizer133755546964558932 1
 87C:\Users\Leon1\Desktop\BMA\root\node_modules\node-gyp-build-optional-packages\README.md133755546957797706 0
 113C:\Users\Leon1\Desktop\BMA\root\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\index.d.ts133755546957904008 0
@@ -1960,8 +1957,6 @@
 97C:\Users\Leon1\Desktop\BMA\root\node_modules\csso\node_modules\css-tree\lib\syntax\scope\value.js133755546964578968 0
 118C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope\selector.js133755546962989763 0
 79C:\Users\Leon1\Desktop\BMA\root\node_modules\node-addon-api\tools\conversion.js133755546959075690 0
-65C:\Users\Leon1\Desktop\BMA\root\node_modules\msgpackr-extract\bin133755546957120767 1
-65C:\Users\Leon1\Desktop\BMA\root\node_modules\lmdb\src\lmdb-js.cpp133755546962395766 0
 76C:\Users\Leon1\Desktop\BMA\root\node_modules\htmlparser2\lib\Parser.d.ts.map133755546958410770 0
 70C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\cjs\_get.cjs133755546964129965 0
 73C:\Users\Leon1\Desktop\BMA\root\node_modules\msgpackr-extract\binding.gyp133755546956853329 0
@@ -2263,9 +2258,9 @@
 74C:\Users\Leon1\Desktop\BMA\root\node_modules\css-tree\cjs\parser\index.cjs133755546961580088 0
 70C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\cjs\_set.cjs133755546964358905 0
 90C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\_\_set_prototype_of\package.json133755546963109236 0
-85C:\Users\Leon1\Desktop\BMA\root\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb133755546963711023 1
 66C:\Users\Leon1\Desktop\BMA\root\node_modules\json5\lib\register.js133755546957999338 0
 92C:\Users\Leon1\Desktop\BMA\root\node_modules\css-select\node_modules\domhandler\lib\index.js133755546957080400 0
+85C:\Users\Leon1\Desktop\BMA\root\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb133755546963711023 1
 95C:\Users\Leon1\Desktop\BMA\root\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.c133755546960086516 0
 87C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\features\css-autofill.js133755546963287355 0
 83C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\src\_class_call_check.mjs133755546965419598 0
@@ -2329,6 +2324,13 @@
 76C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\regions\LI.js133755546966360677 0
 60C:\Users\Leon1\Desktop\BMA\root\node_modules\json5\README.md133755546958887296 0
 65C:\Users\Leon1\Desktop\BMA\root\node_modules\json5\lib\parse.d.ts133755546959348106 0
+76C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\plugin\src\PluginAPI.js133755546956941328 0
+91C:\Users\Leon1\Desktop\BMA\root\node_modules\htmlnano\lib\modules\removeAttributeQuotes.mjs133755546962465239 0
+89C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\features\css-textshadow.js133755546964488295 0
+128C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133755546962832192 0
+79C:\Users\Leon1\Desktop\BMA\root\node_modules\htmlnano\lib\modules\minifyCss.mjs133755546962309564 0
+63C:\Users\Leon1\Desktop\BMA\root\node_modules\json5\lib\parse.js133755546957822000 0
+78C:\Users\Leon1\Desktop\BMA\root\node_modules\css-select\lib\esm\types.d.ts.map133755546961580088 0
 65C:\Users\Leon1\Desktop\BMA\root\node_modules\json5\lib\require.js133755546958177362 0
 99C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\esm\_class_check_private_static_access.js133755546964708179 0
 69C:\Users\Leon1\Desktop\BMA\root\node_modules\json5\lib\stringify.d.ts133755546959443276 0
@@ -3337,6 +3339,7 @@
 75C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\core\src\buildCache.js133755546960433578 0
 73C:\Users\Leon1\Desktop\BMA\root\node_modules\css-tree\dist\csstree.esm.js133755546963744206 0
 70C:\Users\Leon1\Desktop\BMA\root\node_modules\css-tree\dist\version.cjs133755546963322432 0
+69C:\Users\Leon1\Desktop\BMA\root\node_modules\css-tree\dist\version.js133755546964697227 0
 78C:\Users\Leon1\Desktop\BMA\root\node_modules\css-select\lib\esm\compile.js.map133755546960475562 0
 67C:\Users\Leon1\Desktop\BMA\root\node_modules\css-tree\cjs\convertor133755546961436222 1
 66C:\Users\Leon1\Desktop\BMA\root\node_modules\css-tree\cjs\data.cjs133755546960097580 0
@@ -3751,7 +3754,7 @@
 77C:\Users\Leon1\Desktop\BMA\root\node_modules\css-select\lib\esm\attributes.js133755546957904008 0
 80C:\Users\Leon1\Desktop\BMA\root\node_modules\css-select\lib\esm\compile.d.ts.map133755546960377789 0
 96C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\features\css-media-interaction.js133755546964043416 0
-59C:\Users\Leon1\Desktop\BMA\root\dist\index.f7626f62.css.map133761392732385916 0
+59C:\Users\Leon1\Desktop\BMA\root\dist\index.f7626f62.css.map133763972378309103 0
 76C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\regions\AZ.js133755546961051699 0
 74C:\Users\Leon1\Desktop\BMA\root\node_modules\css-select\lib\esm\compile.js133755546958264196 0
 80C:\Users\Leon1\Desktop\BMA\root\node_modules\css-select\lib\esm\general.d.ts.map133755546960677333 0
@@ -3975,7 +3978,7 @@
 76C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\regions\KE.js133755546966206143 0
 76C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\regions\KG.js133755546966256380 0
 76C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\regions\KH.js133755546966266429 0
-57C:\Users\Leon1\Desktop\BMA\root\dist\favicon.8b2f57bf.png133761392732385916 0
+57C:\Users\Leon1\Desktop\BMA\root\dist\favicon.8b2f57bf.png133763972378355008 0
 123C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Combinator.js133755546959279341 0
 76C:\Users\Leon1\Desktop\BMA\root\node_modules\caniuse-lite\data\regions\KM.js133755546966276427 0
 75C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\src\_inherits.mjs133755546965665701 0
@@ -4611,7 +4614,6 @@
 83C:\Users\Leon1\Desktop\BMA\root\node_modules\@mischnic\json-sourcemap\dist\index.js133755546957462921 0
 84C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\transformer-babel\src\babel7.js133755546956920668 0
 85C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\_\_ts_decorate\package.json133755546963408757 0
-89C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\_\_to_property_key\package.json133755546963398711 0
 86C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\_\_to_primitive\package.json133755546963376112 0
 93C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\_\_to_consumable_array\package.json133755546963332775 0
 103C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\_\_tagged_template_literal_loose\package.json133755546963246261 0
@@ -4669,9 +4671,6 @@
 91C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\src\_async_generator_delegate.mjs133755546965345730 0
 94C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\src\_check_private_redeclaration.mjs133755546965386968 0
 101C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\cjs\_class_apply_descriptor_destructure.cjs133755546963833802 0
-81C:\Users\Leon1\Desktop\BMA\root\node_modules\.bin\download-msgpackr-prebuilds.cmd133755546969269895 0
-123C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeAttributesBySelector.js133755546960658993 0
-63C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\source-map133755546962376127 1
 101C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\src\_class_apply_descriptor_destructure.mjs133755546965386968 0
 110C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.mjs133755546965430827 0
 97C:\Users\Leon1\Desktop\BMA\root\node_modules\@swc\helpers\src\_class_extract_field_descriptor.mjs133755546965442465 0
@@ -4852,6 +4851,9 @@
 69C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\resolver-default133755546957110676 1
 72C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\runtime-browser-hmr133755546958177362 1
 57C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\rust133755546969014639 1
+81C:\Users\Leon1\Desktop\BMA\root\node_modules\.bin\download-msgpackr-prebuilds.cmd133755546969269895 0
+123C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeAttributesBySelector.js133755546960658993 0
+63C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\source-map133755546962376127 1
 70C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\transformer-babel133755546959560309 1
 68C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\transformer-css133755546957197422 1
 69C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\transformer-html133755546958098189 1
@@ -5251,7 +5253,7 @@
 93C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\packager-wasm\src\wasm-sourcemap.js.flow133755546956561951 0
 88C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\packager-wasm\lib\wasm-sourcemap.js133755546956899984 0
 86C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\packager-wasm\lib\WasmPackager.js133755546957428729 0
-55C:\Users\Leon1\Desktop\BMA\root\dist\icons.dfd7a6db.svg133761392732405920 0
+55C:\Users\Leon1\Desktop\BMA\root\dist\icons.dfd7a6db.svg133763972378259115 0
 69C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\packager-svg\src133755546956843175 1
 84C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\packager-svg\lib\SVGPackager.js133755546956561951 0
 73C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\packager-raw\LICENSE133755546956103285 0
@@ -5277,7 +5279,7 @@
 70C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\packager-html\src133755546956843175 1
 69C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\packager-css\lib133755546956375928 1
 73C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\packager-css\LICENSE133755546956103285 0
-55C:\Users\Leon1\Desktop\BMA\root\dist\icons.21bad73c.svg133761392732349987 0
+55C:\Users\Leon1\Desktop\BMA\root\dist\icons.21bad73c.svg133763972378228842 0
 69C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\packager-css\src133755546956843175 1
 84C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\packager-css\src\CSSPackager.js133755546956977299 0
 82C:\Users\Leon1\Desktop\BMA\root\node_modules\@parcel\core\lib\public\Dependency.js133755546961492962 0
@@ -6009,8 +6011,7 @@
 58C:\Users\Leon1\Desktop\BMA\root\node_modules\.bin\svgo.cmd133755546969269895 0
 58C:\Users\Leon1\Desktop\BMA\root\dist\index.62406edb.js.map133757995848359210 0
 57C:\Users\Leon1\Desktop\BMA\root\dist\root.3464ddca.js.map133757987055536836 0
-48C:\Users\Leon1\Desktop\BMA\root\src\js\config.js133761369169890364 0
-49C:\Users\Leon1\Desktop\BMA\root\src\js\helpers.js133761369522449059 0
-54C:\Users\Leon1\Desktop\BMA\root\dist\logo.726d37a8.png133761392732420775 0
-54C:\Users\Leon1\Desktop\BMA\root\dist\index.e37f48ea.js133761400259825349 0
-58C:\Users\Leon1\Desktop\BMA\root\dist\index.e37f48ea.js.map133761400259850334 0
+58C:\Users\Leon1\Desktop\BMA\root\src\js\views\searchView.js133763978829853390 0
+54C:\Users\Leon1\Desktop\BMA\root\dist\logo.726d37a8.png133763972378289109 0
+54C:\Users\Leon1\Desktop\BMA\root\dist\index.e37f48ea.js133763978830170927 0
+58C:\Users\Leon1\Desktop\BMA\root\dist\index.e37f48ea.js.map133763978830207258 0
